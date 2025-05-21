@@ -1,6 +1,8 @@
-Django==4.2.1
-gunicorn==20.1.0
-psycopg2-binary==2.9.5
-requests==2.31.0
-djangorestframework==3.14.0
-django-cors-headers==3.14.0
+sonar.projectKey=django-app
+sonar.organization=DEVILOCHEEK
+sonar.projectName=django-app
+sonar.projectVersion=1.0
+sonar.sources=.
+sonar.language=py
+sonar.sourceEncoding=UTF-8
+sonar.python.version=3.8
